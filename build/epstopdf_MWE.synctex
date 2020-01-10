@@ -1,0 +1,110 @@
+SyncTeX Version:1
+Input:1:C:/Dropbox\Latex_code\test_epstopdf\epstopdf_MWE.tex
+Input:2:C:\Dropbox\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+Input:3:C:\Dropbox\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
+Input:4:C:\Dropbox\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+Input:5:C:\Dropbox\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+Input:6:C:\Dropbox\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+Input:7:C:\Dropbox\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+Input:8:C:\Dropbox\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+Input:9:C:\Dropbox\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+Input:10:C:\Dropbox\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf.sty
+Input:11:C:\Dropbox\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+Input:12:C:\Dropbox\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+Input:13:C:\Dropbox\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+Input:14:C:\Dropbox\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+Input:15:C:\Dropbox\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+Input:16:C:\Dropbox\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+Input:17:C:\Dropbox\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+Input:18:C:\Dropbox\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+Input:19:C:\Dropbox\Programs\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+Input:20:C:\Dropbox\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+Input:21:C:\Dropbox\Programs\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
+Input:22:C:\Dropbox\Latex_code\test_epstopdf\build\epstopdf_MWE.aux
+Input:23:C:\Dropbox\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+Output:pdf
+Magnification:1000
+Unit:1
+X Offset:0
+Y Offset:0
+Content:
+!1738
+{1
+[1,10:4736286,46187806:28114944,41451520,0
+[1,10:7292190,46187806:25559040,40337408,0
+[1,10:7292190,6636830:25559040,786432,0
+h1,10:7292190,6636830:25559040,0,0
+]
+[1,10:7292190,44221726:25559040,35946496,0
+(1,10:7292190,26864184:25559040,18588954,0
+h1,9:7292190,26864184:1155060,0,0
+(1,9:8447250,26864184:25559040,18588954,0
+(1,9:8447250,26864184:25559875,18589000,0
+(1,9:8447250,26864184:25559875,18589000,0
+(1,9:8447250,26864184:0,18589000,0
+(1,9:8447250,26864184:0,18945147,0
+(1,9:8447250,26864184:26049577,18945147,0
+)
+k1,9:8447251,26864184:-26049576
+)
+)
+g1,9:34007125,26864184
+)
+)
+)
+g1,10:34006290,26864184
+g1,10:34006290,26864184
+)
+]
+(1,10:7292190,46187806:25559040,506811,0
+k1,10:19879200,46187806:12587010
+x1,10:20264220,46187806
+k1,10:32851230,46187806:12587010
+)
+]
+]
+!786
+}1
+!8
+{2
+[1,13:4736286,46187806:28114944,41451520,0
+[1,13:7292190,46187806:25559040,40337408,0
+[1,13:7292190,6636830:25559040,786432,0
+h1,13:7292190,6636830:25559040,0,0
+]
+[1,13:7292190,44221726:25559040,35946496,0
+(1,12:7292190,26864184:25559040,18588954,0
+h1,11:7292190,26864184:1155060,0,0
+(1,11:8447250,26864184:25559040,18588954,0
+(1,11:8447250,26864184:25559875,18589000,0
+(1,11:8447250,26864184:25559875,18589000,0
+(1,11:8447250,26864184:0,18589000,0
+(1,11:8447250,26864184:0,18945147,0
+(1,11:8447250,26864184:26049577,18945147,0
+)
+k1,11:8447251,26864184:-26049576
+)
+)
+g1,11:34007125,26864184
+)
+)
+)
+g1,12:34006290,26864184
+g1,12:34006290,26864184
+)
+]
+(1,13:7292190,46187806:25559040,506811,0
+k1,13:19879200,46187806:12587010
+x1,13:20264220,46187806
+k1,13:32851230,46187806:12587010
+)
+]
+]
+!792
+}2
+Input:24:C:\Dropbox\Latex_code\test_epstopdf\build\epstopdf_MWE.aux
+!76
+Postamble:
+Count:73
+!24
+Post scriptum:
