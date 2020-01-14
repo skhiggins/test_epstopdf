@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.10)  10 JAN 2020 10:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.10)  13 JAN 2020 19:06
 entering extended mode
 **C:/Dropbox/Latex_code/test_epstopdf/epstopdf_MWE.tex
 (C:/Dropbox/Latex_code/test_epstopdf/epstopdf_MWE.tex
@@ -75,18 +75,18 @@ G,.JBIG2,.JB2,.eps]
 )) (C:\Dropbox\Latex_code\test_epstopdf\build\epstopdf_MWE.aux)
 \openout1 = `epstopdf_MWE.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
 ("C:\Dropbox\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count88
@@ -102,76 +102,79 @@ LaTeX Font Info:    ... okay on input line 7.
 \everyMPtoPDFconversion=\toks16
 )
 Package epstopdf Info: Source file: <sample_eps_helvetica.eps>
-(epstopdf)                    date: 2020-01-10 10:10:40
-(epstopdf)                    size: 13204 bytes
+(epstopdf)                    date: 2020-01-13 18:51:04
+(epstopdf)                    size: 12706 bytes
 (epstopdf)             Output file: <sample_eps_helvetica-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2020-01-10 10:22:59
-(epstopdf)                    size: 10999 bytes
+(epstopdf)                    date: 2020-01-13 19:06:45
+(epstopdf)                    size: 10916 bytes
 (epstopdf)             Command: <epstopdf --outfile=sample_eps_helvetica-eps-co
 nverted-to.pdf sample_eps_helvetica.eps>
-(epstopdf)             \includegraphics on input line 9.
+(epstopdf)             \includegraphics on input line 10.
 Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: pdflatex.exe (file ./sample_eps_helvetica-eps-converted-to.pdf)
-: PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <sample_eps_helvetica-eps-converted-to.pdf, id=1, 397.485pt x 289.08pt>
 File: sample_eps_helvetica-eps-converted-to.pdf Graphic file (type pdf)
 <use sample_eps_helvetica-eps-converted-to.pdf>
 Package pdftex.def Info: sample_eps_helvetica-eps-converted-to.pdf  used on inp
-ut line 9.
+ut line 10.
 (pdftex.def)             Requested size: 390.0pt x 283.64493pt.
-
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 9--10
-[][] 
- []
-
-[1
-
-{C:/Users/Sean Higgins/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./sa
-mple_eps_helvetica-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <sample_eps_arial.eps>
-(epstopdf)                    date: 2020-01-10 10:10:40
-(epstopdf)                    size: 13200 bytes
+(epstopdf)                    date: 2020-01-13 19:06:22
+(epstopdf)                    size: 12702 bytes
 (epstopdf)             Output file: <sample_eps_arial-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-01-10 10:23:01
-(epstopdf)                    size: 11003 bytes
+(epstopdf)                    date: 2020-01-13 19:06:46
+(epstopdf)                    size: 10916 bytes
 (epstopdf)             Command: <epstopdf --outfile=sample_eps_arial-eps-conver
 ted-to.pdf sample_eps_arial.eps>
 (epstopdf)             \includegraphics on input line 11.
 Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: pdflatex.exe (file ./sample_eps_arial-eps-converted-to.pdf): PD
-F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<sample_eps_arial-eps-converted-to.pdf, id=12, 397.485pt x 289.08pt>
+<sample_eps_arial-eps-converted-to.pdf, id=2, 397.485pt x 289.08pt>
 File: sample_eps_arial-eps-converted-to.pdf Graphic file (type pdf)
 <use sample_eps_arial-eps-converted-to.pdf>
 Package pdftex.def Info: sample_eps_arial-eps-converted-to.pdf  used on input l
 ine 11.
 (pdftex.def)             Requested size: 390.0pt x 283.64493pt.
+Package epstopdf Info: Source file: <sample_eps_times.eps>
+(epstopdf)                    date: 2020-01-13 19:06:22
+(epstopdf)                    size: 12750 bytes
+(epstopdf)             Output file: <sample_eps_times-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-01-13 19:06:46
+(epstopdf)                    size: 11262 bytes
+(epstopdf)             Command: <epstopdf --outfile=sample_eps_times-eps-conver
+ted-to.pdf sample_eps_times.eps>
+(epstopdf)             \includegraphics on input line 12.
+Package epstopdf Info: Output file is already uptodate.
+<sample_eps_times-eps-converted-to.pdf, id=3, 397.485pt x 289.08pt>
+File: sample_eps_times-eps-converted-to.pdf Graphic file (type pdf)
+<use sample_eps_times-eps-converted-to.pdf>
+Package pdftex.def Info: sample_eps_times-eps-converted-to.pdf  used on input l
+ine 12.
+(pdftex.def)             Requested size: 390.0pt x 283.64493pt.
 
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 11--12
-[][] 
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 10--13
+[][]
  []
 
-[2 <./sample_eps_arial-eps-converted-to.pdf>] (C:\Dropbox\Latex_code\test_epsto
-pdf\build\epstopdf_MWE.aux) ) 
+[1
+
+{C:/Users/Sean Higgins/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./sa
+mple_eps_helvetica-eps-converted-to.pdf>] [2 <./sample_eps_arial-eps-converted-
+to.pdf>] [3 <./sample_eps_times-eps-converted-to.pdf>] (C:\Dropbox\Latex_code\t
+est_epstopdf\build\epstopdf_MWE.aux) ) 
 Here is how much of TeX's memory you used:
- 1503 strings out of 492484
- 22174 string characters out of 3129678
+ 1509 strings out of 492484
+ 22405 string characters out of 3129678
  82863 words of memory out of 3000000
- 5860 multiletter control sequences out of 15000+200000
+ 5865 multiletter control sequences out of 15000+200000
  3938 words of font info for 15 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,4n,32p,365b,115s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Dropbox/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmr12.pfb>
-Output written on C:\Dropbox\Latex_code\test_epstopdf\build\epstopdf_MWE.pdf (2
- pages, 27497 bytes).
+ 57i,4n,32p,383b,115s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Dropbox/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb>
+Output written on C:\Dropbox\Latex_code\test_epstopdf\build\epstopdf_MWE.pdf (3
+ pages, 37448 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
+ 34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
