@@ -1,0 +1,14 @@
+% Try to figure out why epstopdf Helvetica not working
+
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\pdfminorversion=7
+
+\begin{document}
+
+\includegraphics[width=\textwidth]{sample_eps_helvetica.eps}
+\includegraphics[width=\textwidth]{sample_eps_arial.eps}
+\includegraphics[width=\textwidth]{sample_eps_times.eps}
+
+\end{document}
